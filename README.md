@@ -1,5 +1,5 @@
 # Projeto01
- Conjunto de varias classes com diversas funcionalidades
+ Conjunto de varias classes com diversas funcionalidades em JAVA
 
 ## Projetos
 
